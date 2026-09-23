@@ -1,14 +1,31 @@
 git init
 git branch -M main
 git add .
-git commit -m "nombre de versión"
 git push
 git pull
 git status
-git init es para inicializar un trpositorio local
+git init es para inicializar un trpositorio local "repositorio nuevo"
 got Branch -M main: para renombrar la rama master por main.
+
 gir¿t add . "este comando sirve para agregar todos los archivos"
+
 git commit -m "firt commit" (este comando sirve para nombrar la versión de subida)
 git push "sube los cambios al repositorio en la web o nube".
 git pull "jala los cambios del repositorio web"
-git status "comprueba si hay cambios o el estado de los archivos+"
+git status "comprueba si hay cambios o el estado de los archivos"
+
+configuracion del usuario local git
+$ git config --global user.name "John Doe"
+$ git config --global user.email "johndoe@example.co"
+primero debe borrar los credenciales
+"recuerde abrir las credenciales"
+"todo lo que diga git"
+
+git status "si aparece en rojo, ha sido modificado"
+git commit 
+git clone + URL (Clonar )
+
+copia la url para enviar
+en lo verde code, para copiado, y voy escribir en gitbush: git clone 
+descegar git y visual y sincronizae carpeta
+live server, error lens,Material icon themem ident - rainbow, por si las mosqui spanish language
