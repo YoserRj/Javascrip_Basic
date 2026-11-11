@@ -15,8 +15,8 @@ git pull "jala los cambios del repositorio web"
 git status "comprueba si hay cambios o el estado de los archivos"
 
 configuracion del usuario local git
-$ git config --global user.name "John Doe"
-$ git config --global user.email "johndoe@example.co"
+$ git config --global user.name "Nombre usuario"
+$ git config --global user.email "Correo del usuario"
 primero debe borrar los credenciales
 "recuerde abrir las credenciales"
 "todo lo que diga git"
