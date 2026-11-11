@@ -19,6 +19,7 @@ $ git config --global user.name "Nombre usuario"
 $ git config --global user.email "Correo del usuario"
 primero debe borrar los credenciales
 "recuerde abrir las credenciales"
+WINDONW + S: Borra credenciales de git
 "todo lo que diga git"
 
 git status "si aparece en rojo, ha sido modificado"
