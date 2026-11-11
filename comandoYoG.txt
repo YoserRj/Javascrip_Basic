@@ -5,9 +5,9 @@ git push
 git pull
 git status
 git init es para inicializar un trpositorio local "repositorio nuevo"
-got Branch -M main: para renombrar la rama master por main.
+git Branch -M main: para renombrar la rama master por main.
 
-gir¿t add . "este comando sirve para agregar todos los archivos"
+git add . "este comando sirve para agregar todos los archivos"
 
 git commit -m "firt commit" (este comando sirve para nombrar la versión de subida)
 git push "sube los cambios al repositorio en la web o nube".
